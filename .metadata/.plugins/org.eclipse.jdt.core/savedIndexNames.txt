@@ -1,0 +1,22 @@
+INDEX VERSION 1.127+/Users/Ivan/Development/Sandboxes/wesovi/scalaws/.metadata/.plugins/org.eclipse.jdt.core
+498762674.index
+239281793.index
+1924738351.index
+187125447.index
+4134961745.index
+3335458203.index
+1780743937.index
+1254390293.index
+627364689.index
+3105529239.index
+1335784170.index
+1591598117.index
+1961468763.index
+2192042413.index
+2827635643.index
+297402459.index
+437248693.index
+1163418633.index
+2675385871.index
+1669883745.index
+2765913855.index

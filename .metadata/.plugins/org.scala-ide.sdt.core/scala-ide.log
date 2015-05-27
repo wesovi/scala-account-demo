@@ -1,0 +1,290 @@
+2015-05-26 23:06:27,389  WARN [ModalContext] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-26 23:06:27,391  WARN [ModalContext] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-26 23:06:33,385  WARN [Worker-9] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-26 23:06:33,386  WARN [Worker-9] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-26 23:06:44,446  WARN [Worker-9] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-26 23:06:44,446  WARN [Worker-9] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-26 23:06:44,463  WARN [Worker-9] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-26 23:06:44,463  WARN [Worker-9] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-26 23:10:23,946  WARN [Worker-3] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-26 23:10:23,948  WARN [Worker-3] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:31:22,295  WARN [Worker-11] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:31:22,296  WARN [Worker-11] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:31:22,366  WARN [Worker-11] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:31:22,366  WARN [Worker-11] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:31:22,562  WARN [Worker-11] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:31:22,563  WARN [Worker-11] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:31:22,593  WARN [Worker-11] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:31:22,593  WARN [Worker-11] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:34:51,477  WARN [Worker-22] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:34:51,478  WARN [Worker-22] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:34:51,498  WARN [Worker-22] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:34:51,498  WARN [Worker-22] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:34:51,514  WARN [Worker-22] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:34:51,514  WARN [Worker-22] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:09,943  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:09,944  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:09,960  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:09,960  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:09,973  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:09,973  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:17,544  WARN [Worker-20] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:17,544  WARN [Worker-20] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:17,559  WARN [Worker-20] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:17,560  WARN [Worker-20] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:17,571  WARN [Worker-20] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:17,571  WARN [Worker-20] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:19,595  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:19,595  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:19,609  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:19,609  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:19,620  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:19,620  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:37,369  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:37,370  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:37,381  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:37,381  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:35:37,394  WARN [Worker-21] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:35:37,394  WARN [Worker-21] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:38:23,990  WARN [Worker-26] - ScalaProject - Project scala-demo-test has platform default sourceLevel.
+2015-05-27 05:38:23,990  WARN [Worker-26] - ScalaProject - Project scala-demo-test runs on platform default installation.
+2015-05-27 05:38:24,014  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for scala-demo-test, setting default to 2.11.
+2015-05-27 05:38:24,016  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for scala-demo-test, setting default to 2.11.
+2015-05-27 06:17:02,137 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:17:03,055 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:17:03,055 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:17:03,055 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:19:28,885  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:20:19,728  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:21:42,126  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:21:42,126  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:21:42,137  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:21:54,292  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 432
+2015-05-27 06:21:54,293  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 432
+2015-05-27 06:22:03,912  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 444
+2015-05-27 06:22:03,912  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 444
+2015-05-27 06:22:08,946  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:08,946  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:27,440  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:27,441  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:35,311  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:22:35,318  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:22:35,319  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:22:35,319  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-27 06:22:35,557  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:35,557  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:41,100  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:41,100  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:46,295  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:46,295  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:52,497  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:22:52,497  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:23:32,908  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:23:32,908  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:25:17,516  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:25:17,516  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:26:11,663  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:26:11,664  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:26:16,742 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:26:16,743 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:26:16,743 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:26:34,683 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:26:34,683 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:26:34,683 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:27:27,157  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:27:27,157  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:27:38,222  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:27:38,222  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:28:03,351 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:28:03,351 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:28:03,351 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:28:32,219  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:28:32,219  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:29:24,843  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:29:24,844  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:29:25,888  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:29:25,888  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:29:26,901  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:29:26,901  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 441
+2015-05-27 06:29:30,445  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 442
+2015-05-27 06:29:30,446  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 442
+2015-05-27 06:29:40,596  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 442
+2015-05-27 06:29:40,597  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 442
+2015-05-27 06:29:41,706  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 442
+2015-05-27 06:29:41,706  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 442
+2015-05-27 06:29:50,769  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:29:50,770  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:30:19,243  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:30:19,243  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:30:35,618  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:30:35,618  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:30:42,313  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:30:42,313  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:31:04,585  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:31:04,585  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:31:19,435  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 46
+2015-05-27 06:32:25,700  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:32:25,700  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:32:41,793  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:32:41,794  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 443
+2015-05-27 06:32:43,309  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 444
+2015-05-27 06:32:43,310  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 444
+2015-05-27 06:32:50,862  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 374
+2015-05-27 06:32:50,862  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 374
+2015-05-27 06:32:54,468  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 517
+2015-05-27 06:32:54,468  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 517
+2015-05-27 06:32:55,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:32:55,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:32:55,143 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:33:16,163  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 374
+2015-05-27 06:33:16,163  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 374
+2015-05-27 06:41:18,266 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:41:18,266 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:41:18,266 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:41:49,169 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:41:49,664 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:41:49,664 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:41:49,665 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:43:02,534 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:43:02,534 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:43:02,534 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-27 06:46:13,747 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2015-05-27 06:46:13,749 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - java.lang.NullPointerException
+2015-05-27 06:46:13,749 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:58)
+2015-05-27 06:46:13,749 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:114)
+2015-05-27 06:46:13,749 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2015-05-27 06:46:13,749 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2015-05-27 06:46:31,561  WARN [ModalContext] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:46:31,561  WARN [ModalContext] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:46:31,750  WARN [Worker-79] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:46:31,750  WARN [Worker-79] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:46:31,755  WARN [Worker-79] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:46:31,755  WARN [Worker-79] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:46:31,761  WARN [Worker-79] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:46:31,761  WARN [Worker-79] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:46:42,030  WARN [Worker-78] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:46:42,030  WARN [Worker-78] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:46:42,092  WARN [Worker-78] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:46:42,092  WARN [Worker-78] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:46:42,099  WARN [Worker-78] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:46:42,100  WARN [Worker-78] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:47:22,071  WARN [Worker-79] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:47:22,071  WARN [Worker-79] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:47:22,077  WARN [Worker-79] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:47:22,077  WARN [Worker-79] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:47:22,082  WARN [Worker-79] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:47:22,082  WARN [Worker-79] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:31,018  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:31,019  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:31,025  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:31,025  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:31,034  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:31,034  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:37,225  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:37,226  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:37,231  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:37,231  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:37,235  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:37,236  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:59,710  WARN [Worker-77] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:59,710  WARN [Worker-77] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:59,717  WARN [Worker-77] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:59,717  WARN [Worker-77] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:49:59,722  WARN [Worker-77] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:49:59,722  WARN [Worker-77] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:23,997  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:23,998  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:24,003  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:24,003  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:24,008  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:24,008  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:35,458  WARN [Worker-86] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:35,458  WARN [Worker-86] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:35,464  WARN [Worker-86] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:35,464  WARN [Worker-86] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:35,469  WARN [Worker-86] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:35,469  WARN [Worker-86] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:48,400  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:48,400  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:48,407  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:48,407  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:50:48,412  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:50:48,412  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:52:06,978  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:52:06,979  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:52:06,985  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:52:06,985  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:52:06,990  WARN [Worker-84] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:52:06,990  WARN [Worker-84] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:52:32,935  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:52:32,935  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:52:32,940  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:52:32,940  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:52:32,945  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:52:32,946  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:53:12,381  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:53:12,381  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:53:12,388  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:53:12,388  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:53:12,394  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:53:12,394  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:53:35,043  WARN [Worker-77] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:53:35,043  WARN [Worker-77] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:53:35,048  WARN [Worker-77] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:53:35,048  WARN [Worker-77] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:53:35,052  WARN [Worker-77] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:53:35,052  WARN [Worker-77] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:54:25,903  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:54:25,903  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:54:25,912  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:54:25,912  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:54:25,917  WARN [Worker-85] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:54:25,917  WARN [Worker-85] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:54:43,865  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:54:43,866  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:54:43,872  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:54:43,872  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:54:43,877  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:54:43,877  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:55:14,780  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:55:14,780  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:55:14,786  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:55:14,786  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:55:14,791  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:55:14,791  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:56:34,467  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:56:34,467  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:56:34,475  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:56:34,475  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:56:34,481  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:56:34,481  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:56:45,422  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:56:45,423  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:56:45,428  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:56:45,428  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:56:45,433  WARN [Worker-87] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:56:45,433  WARN [Worker-87] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:02,122  WARN [Worker-88] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:02,122  WARN [Worker-88] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:02,127  WARN [Worker-88] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:02,127  WARN [Worker-88] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:02,132  WARN [Worker-88] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:02,132  WARN [Worker-88] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:07,945  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:07,945  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:07,951  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:07,951  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:07,956  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:07,956  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:53,937  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:53,937  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:53,946  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:53,947  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:57:53,951  WARN [Worker-76] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:57:53,952  WARN [Worker-76] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:58:23,527  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:58:23,527  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:58:23,533  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:58:23,533  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
+2015-05-27 06:58:23,539  WARN [Worker-82] - ScalaProject - Project scala-account-facade has platform default sourceLevel.
+2015-05-27 06:58:23,539  WARN [Worker-82] - ScalaProject - Project scala-account-facade runs on platform default installation.
