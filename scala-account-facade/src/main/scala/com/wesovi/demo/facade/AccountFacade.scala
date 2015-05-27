@@ -3,18 +3,18 @@ package com.wesovi.demo.facade
 import scala.concurrent.Await
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
+import scala.concurrent.duration.FiniteDuration
 import scala.util.Failure
 import scala.util.Success
-import com.wesovi.facade.exchange.AccountExchange
-import com.wesovi.facade.persistence.model.AccountDocument
+import com.wesovi.demo.exchange.AccountExchange
+import com.wesovi.demo.exchange.AccountExchange
+import com.wesovi.demo.facade.persistence.model.AccountDocument
 import akka.actor.Actor
 import akka.actor.ActorLogging
 import akka.actor.ActorSystem
 import akka.actor.Props
 import akka.util.Timeout
-import com.wesovi.facade.exchange.AccountExchange
-import com.wesovi.facade.exchange.AccountExchangeOperation
-
+import java.util.concurrent.TimeUnit
 
 object AccountApp extends App  {
   val system = ActorSystem("AccountRemoteSystem")
@@ -42,9 +42,10 @@ trait AccountFacadeApi{
       case Success(response)=>println(response)
       case Failure(response)=>println(response)
     }
-    Await.result(accountDocumentFuture,Timeout(10000).duration)
+    
+    Await.result(accountDocumentFuture,Timeout(new FiniteDuration(10000,TimeUnit.MILLISECONDS)).duration)
   }
-}
+} 
 
 object AccountFacade {
   

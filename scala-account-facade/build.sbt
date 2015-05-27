@@ -44,6 +44,7 @@ val reactivemongo = "0.10.5.0.AKKA23"
 
 
 libraryDependencies ++= Seq(
+	"com.wesovi"		  %%	"scala-account-exchange" % "0.0.1",
 	"com.typesafe.akka"   	%% 		"akka-actor" 		% akkaVersion,
 	"com.typesafe.akka"   	%% 		"akka-remote" 		% akkaVersion,
 	"com.typesafe.akka"   	%% 		"akka-slf4j" 		% akkaVersion,

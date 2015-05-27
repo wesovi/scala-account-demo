@@ -34,6 +34,7 @@ val akkaVersion = "2.4-SNAPSHOT"
 
 
 libraryDependencies ++= Seq(
+	"com.wesovi"		  %%	"scala-account-exchange" % "0.0.1",
 	"com.typesafe.akka"   %% 	"akka-actor" 		% akkaVersion,
 	"com.typesafe.akka"   %% 	"akka-remote" 		% akkaVersion,
 	"com.typesafe.akka"   %% 	"akka-slf4j" 		% akkaVersion,
