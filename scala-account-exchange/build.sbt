@@ -1,7 +1,7 @@
 
 organization := "com.wesovi"
 
-name := "scala-account-facade"
+name := "scala-account-exchange"
 
 version := "0.0.1"
 
