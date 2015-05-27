@@ -7,4 +7,9 @@ src_managed/
 project/boot/
 .history
 .cache
+.project
+.classpath
+.cache-main
+.settings/
 bin/
+.metadata/
