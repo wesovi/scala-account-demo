@@ -23,7 +23,7 @@ object AccountApp extends App  {
 }
 
 
-trait AccountFacadeApi{
+trait AccountFacadeApi {
   def getAccountWithEmail(email:String){
     
   }
@@ -65,7 +65,9 @@ class AccountFacade extends Actor with ActorLogging with AccountFacadeApi{
     case accountExchange:AccountExchange =>{
       log.info(s"Account operation ${accountExchange.operation} with email ${accountExchange.email} and password ${accountExchange.password}!")
       sender().forward(createAccount(accountExchange.email))  
-      
+    }
+    case _ =>{
+      log.error("Unexpected request.")
     }
   }
   

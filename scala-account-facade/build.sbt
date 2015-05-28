@@ -44,16 +44,15 @@ val reactivemongo = "0.10.5.0.AKKA23"
 
 
 libraryDependencies ++= Seq(
-	"com.wesovi"		  %%	"scala-account-exchange" % "0.0.1",
+	"com.wesovi"		    %%		"scala-account-exchange" % "0.0.1",
 	"com.typesafe.akka"   	%% 		"akka-actor" 		% akkaVersion,
 	"com.typesafe.akka"   	%% 		"akka-remote" 		% akkaVersion,
 	"com.typesafe.akka"   	%% 		"akka-slf4j" 		% akkaVersion,
   	"ch.qos.logback" 	  	% 		"logback-classic" 	% "1.1.2",
   	"org.reactivemongo" 	%% 		"reactivemongo" 	% "0.10.5.0.akka23",
+  	"com.typesafe.akka"   	%% 		"akka-testkit" 		% akkaVersion,
   	"com.github.athieriot" 	%% 		"specs2-embedmongo" % specs2EmbedMongoVersion	% "test",
-  	"org.scalatest" 		%% 		"scalatest" 		% scalaTestVersion 			% "test",
-  	"org.specs2" 		  	%% 		"specs2" 			% specs2Version				% "test",
-  	"junit" 				% 		"junit" 			% junitVersion 				% "test"
+  	"org.specs2" 		  	%% 		"specs2" 			% specs2Version				% "test"
   	
   	
 )
