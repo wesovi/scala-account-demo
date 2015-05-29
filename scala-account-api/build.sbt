@@ -17,6 +17,7 @@ resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/release
 
 resolvers += "Akka Snapshot Repository" at "http://repo.akka.io/snapshots/"
 
+resolvers += "Scalaz Bintray Repo" at "http://dl.bintray.com/scalaz/releases"
 
 EclipseKeys.createSrc := EclipseCreateSrc.Default + EclipseCreateSrc.Resource
 
@@ -32,6 +33,8 @@ val sprayJsonVersion = "1.3.2"
 
 val akkaVersion = "2.4-SNAPSHOT"
 
+val specs2Version = "3.6"
+
 
 libraryDependencies ++= Seq(
 	"com.wesovi"		  %%	"scala-account-exchange" % "0.0.1",
@@ -41,8 +44,12 @@ libraryDependencies ++= Seq(
 	"io.spray"            %%  	"spray-can"     	% sprayVersion,
 	"io.spray"            %%  	"spray-routing" 	% sprayVersion,
   	"io.spray" 			  %% 	"spray-json" 		% sprayJsonVersion,
-  	"io.spray"            %%  	"spray-testkit" 	% sprayVersion  	% "test",
-  	"ch.qos.logback" 	  % 	"logback-classic" 	% "1.1.2"
+  	"io.spray"            %%  	"spray-testkit" 	% sprayVersion  	% "test" exclude("org.specs2", "specs2_2.11"),
+  	"org.specs2" %%  "specs2-core"   % specs2Version % "test",
+	"org.specs2" %% "specs2-mock" % specs2Version % "test",
+	"org.specs2" %% "specs2-junit" % specs2Version % "test",
+	"org.specs2" %% "specs2-matcher-extra" % specs2Version % "test",
+  	 "ch.qos.logback" 	  % 	"logback-classic" 	% "1.1.2"
 )
 
 

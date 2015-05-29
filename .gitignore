@@ -13,3 +13,9 @@ project/boot/
 .settings/
 bin/
 .metadata/
+
+scala-account-facade/.cache-tests
+
+scala-account-facade/.cache-tests
+
+scala-account-api/.classpath
